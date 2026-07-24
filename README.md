@@ -13,18 +13,15 @@
 - 🌱 Currently learning **React.js & Node.js**
 - 🚀 Building responsive and user-friendly web applications
 - 🎯 Focused on clean code, UI/UX, and performance optimization
-- 📫 Reach me at **your@email.com**
+- 📫 Reach me at **bercislisan569@gmail.com**
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
-<a href="YOUR_PORTFOLIO" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
 
-<a href="YOUR_LINKEDIN" target="_blank">
+
+<a href="www.linkedin.com/in/bercis-lisan-s" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
