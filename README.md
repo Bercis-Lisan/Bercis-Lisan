@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bercis Lisan S</h1>
-<h3 align="center">Frontend Web Developer | HTML • CSS • JavaScript • Tailwind CSS</h3>
+<h3 align="center">App & Web Developer | HTML • CSS • JavaScript • Tailwind CSS</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Frontend+Web+Developer;Building+Responsive+Websites;HTML+%7C+CSS+%7C+JavaScript;Tailwind+CSS+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-- 💻 Passionate Frontend Web Developer
+- 💻 Passionate Frontend, App and Web Developer
 - 🌱 Currently learning **React.js & Node.js**
 - 🚀 Building responsive and user-friendly web applications
 - 🎯 Focused on clean code, UI/UX, and performance optimization
