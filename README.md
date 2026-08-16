@@ -2,7 +2,7 @@
 <h3 align="center">App & Web Developer | HTML • CSS • JavaScript • Tailwind CSS</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=App+&+Web+Developer;Building+Responsive+Websites;HTML+%7C+CSS+%7C+JavaScript;Tailwind+CSS+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Frontend+Web+Developer;Building+Responsive+Websites;HTML+%7C+CSS+%7C+JavaScript;Tailwind+CSS+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
 
 ---
